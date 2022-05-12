@@ -1,9 +1,9 @@
 Testing Git command
 AAA
-AAA
-AAA
+AAAaaa
+AAAaaa
 BBB
 BBB
-BBB
-BBB
+BBBbbb
+BBBbbb
 
